@@ -1,2 +1,2 @@
-# oki
-Oki is an alien looking for adventures in the space
+# portfolio
+My portfolio of web projects (personal and educative)
